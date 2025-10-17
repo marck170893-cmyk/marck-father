@@ -1,4 +1,4 @@
-# marck-father
+# repositorio de marck
 primer repo creado en github
 
 ## descripcion
